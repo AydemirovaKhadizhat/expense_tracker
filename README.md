@@ -31,8 +31,6 @@
 ### Установка 
 
 ```bash
-python expense_tracker.py
-```bash
 git clone https://github.com/AydemirovaKhadizhat/expense_tracker.git
 cd expense_tracker
 python expense_tracker.py
