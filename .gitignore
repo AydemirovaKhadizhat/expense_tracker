@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.json   # если не хотите хранить данные в Git, иначе удалите эту строку
+.DS_Store
+*.log
